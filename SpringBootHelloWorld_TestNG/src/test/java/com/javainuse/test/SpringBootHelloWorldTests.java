@@ -14,7 +14,7 @@ import org.springframework.web.context.WebApplicationContext;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.javainuse.SpringBootHelloWorldApplication;
+import com.javaLive.SpringBootHelloWorldApplication;
 
 @SpringBootTest(classes = SpringBootHelloWorldApplication.class)
 public class SpringBootHelloWorldTests extends AbstractTestNGSpringContextTests {

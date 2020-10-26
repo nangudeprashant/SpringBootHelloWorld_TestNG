@@ -1,10 +1,10 @@
-package com.javainuse.controllers;
+package com.javaLive.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.javainuse.model.Employee;
+import com.javajavaLive.model.Employee;
 
 @RestController
 public class TestController {
